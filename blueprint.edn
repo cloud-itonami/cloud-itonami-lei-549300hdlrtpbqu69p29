@@ -2,4 +2,5 @@
  :company/lei "549300HDLRTPBQU69P29"
  :company/jurisdiction "CA-ON"
  :company/website "https://www.wasteconnections.com"
- :company/ticker "WCN (NYSE/TSX)"}
+ :company/ticker "WCN (NYSE/TSX)"
+ :company/inquiry-form-url "https://www.wasteconnections.com/contact-us"}
